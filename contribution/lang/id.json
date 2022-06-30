@@ -226,7 +226,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "Tingkatkan jumlah maksimum barang yang dapat Anda simpan di lemari besi ke ${upgradeToSlot}",
+ 	 	 	 	"trans": "Tingkatkan jumlah maksimal barang yang dapat Anda simpan di lemari besi ke ${upgradeToSlot}",
  	 	 	 	"eng": "Increase the max amount of items you can store in vault to ${upgradeToSlot}"
  	 	 	},
  	 	 	"modal": {
@@ -358,7 +358,7 @@
  	 	 	 	 	"eng": "${name} is about to run out in a few seconds!"
  	 	 	 	},
  	 	 	 	"refresh": {
- 	 	 	 	 	"trans": "Menyegarkan sekarang",
+ 	 	 	 	 	"trans": "segarkan sekarang",
  	 	 	 	 	"eng": "Refresh Now"
  	 	 	 	}
  	 	 	}
@@ -441,7 +441,7 @@
  	 	 	 	"eng": "All Apps"
  	 	 	},
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Daftar Rubanah",
+ 	 	 	 	"trans": "Daftar dungeon",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
@@ -642,7 +642,7 @@
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
- 	 	 	 	"trans": "Mengunci",
+ 	 	 	 	"trans": "kunci",
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"lockDescription": {
@@ -715,7 +715,7 @@
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Ini belum bisa dibuka, coba tingkatkan tingkatmu",
+ 	 	 	 	"trans": "Ini belum bisa dibuka, coba tingkatkan level karaktermu",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
@@ -1041,7 +1041,7 @@
  	 	 	 	 	 	"eng": "Improve Printing Rank"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Percetakan peringkat menentukan tingkat item yang Anda cetak. Dapatkan Pencetakan Exp dengan Cetak & Jual di Pasar Hitam",
+ 	 	 	 	 	 	"trans": "peringkat Percetakan menentukan tingkat item yang Anda cetak. Dapatkan Pencetakan Exp dengan Cetak & Jual di Pasar gelap",
  	 	 	 	 	 	"eng": "Printing Rank determines the level of item you print. Gain printing exp by print & sell in Black Market"
  	 	 	 	 	}
  	 	 	 	},
@@ -1074,7 +1074,7 @@
  	 	 	 	 	 	"eng": "Use AI Core"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Sepertinya Anda memiliki beberapa inti AI, menggunakannya untuk melakukan level afk otomatis di area tingkat yang sesuai.",
+ 	 	 	 	 	 	"trans": "Sepertinya Anda memiliki beberapa inti AI, menggunakannya untuk melakukan leveling afk otomatis di area tingkat yang sesuai.",
  	 	 	 	 	 	"eng": "Looks like you have some AI Cores, use them to do AFK auto leveling in appropriate level area."
  	 	 	 	 	}
  	 	 	 	},
@@ -1148,7 +1148,7 @@
  	 	 	 	"eng": "Suspended"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Akun Anda telah ditangguhkan secara otomatis oleh sistem karena aktivitas mencurigakan",
+ 	 	 	 	"trans": "Akun Anda telah diberhentikan secara otomatis oleh sistem karena aktivitas mencurigakan",
  	 	 	 	"eng": "Your account has been suspended automatically by the system due to Unusual Activity"
  	 	 	},
  	 	 	"possibleReasons": {
@@ -1161,7 +1161,7 @@
  	 	 	 	 	"eng": "1. You created multiple accounts to gain unfair advantage"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "2. Anda telah menggunakan beberapa jenis perangkat lunak otomatis untuk mendapatkan keuntungan tidak adil, seperti AutoClicker, BOT, dll.",
+ 	 	 	 	 	"trans": "2. Anda telah menggunakan beberapa jenis perangkat lunak otomatis untuk mendapatkan keuntungan dengan tidak adil, seperti AutoClicker, BOT, dll.",
  	 	 	 	 	"eng": "2. You have used some kind of automated software to gain unfair advantage, such as autoclicker, bots, etc."
  	 	 	 	},
  	 	 	 	"4": {
@@ -1243,7 +1243,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"enableBackgroundMusic": {
- 	 	 	 	"trans": "latarbelakang musik",
+ 	 	 	 	"trans": "musik latarbelakang",
  	 	 	 	"eng": "background music"
  	 	 	},
  	 	 	"enableSoundEffects": {
@@ -1406,7 +1406,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"time"
  	 	 	 	],
- 	 	 	 	"trans": "Ini akan mengambil ${time}",
+ 	 	 	 	"trans": "Ini akan berjalan selama ${time}",
  	 	 	 	"eng": "This will take ${time}"
  	 	 	}
  	 	},
@@ -1509,7 +1509,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"deleteGang": {
- 	 	 	 	"trans": "Hapus geng",
+ 	 	 	 	"trans": "bubarkan geng",
  	 	 	 	"eng": "Delete Gang"
  	 	 	}
  	 	},
@@ -1521,34 +1521,34 @@
  	 	},
  	 	"dungeon": {
  	 	 	"public": {
- 	 	 	 	"trans": "Rubanah publik",
+ 	 	 	 	"trans": "dungeon publik",
  	 	 	 	"eng": "Public dungeon"
  	 	 	},
  	 	 	"password": {
- 	 	 	 	"trans": "Rubanah yang dilindungi kata sandi",
+ 	 	 	 	"trans": "dungeon yang dilindungi kata sandi",
  	 	 	 	"eng": "Password protected dungeon"
  	 	 	},
  	 	 	"enterDungeon": {
- 	 	 	 	"trans": "Masuk Rubanah",
+ 	 	 	 	"trans": "Masuk Dungeon",
  	 	 	 	"eng": "Enter Dungeon"
  	 	 	},
  	 	 	"listButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Rubanah",
+ 	 	 	 	 	"trans": "Dungeons",
  	 	 	 	 	"eng": "Dungeons"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Di rubanah, Anda tidak akan sembuh setelah setiap pertarungan, dan musuh lebih kuat, tetapi ada lebih banyak exp dan jarahan",
+ 	 	 	 	 	"trans": "Di dungeon, Anda tidak akan sembuh setelah setiap pertarungan, dan musuh lebih kuat, tetapi ada lebih banyak exp dan jarahan",
  	 	 	 	 	"eng": "In dungeons, you will not heal after each fight, and enemies are stronger, but there are more exp and loots"
  	 	 	 	}
  	 	 	},
  	 	 	"underMaintenance": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Rubanah di bawah pemeliharaan",
+ 	 	 	 	 	"trans": "Dungeons sedang Maintenance",
  	 	 	 	 	"eng": "Dungeons Under Maintenance"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Rubanah saat ini sedang dalam pemeliharaan, Dexter bekerja untuk membawanya kembali sesegera mungkin!",
+ 	 	 	 	 	"trans": "Dungeons saat ini sedang dalam maintenance, Dexter sedang bekerja untuk membawanya kembali sesegera mungkin!",
  	 	 	 	 	"eng": "Dungeons are currently under maintenance, Dexter is working on bringing them back as soon as possible!"
  	 	 	 	}
  	 	 	},
@@ -1556,7 +1556,7 @@
  	 	 	 	"trans": "Mungkin membeli beberapa Barang penyembuhan terlebih dahulu?",
  	 	 	 	"eng": "Maybe buy some healing item first?",
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Sepertinya Anda tidak memiliki rasa sakit, beli dari Toko Trinoky di kota terlebih dahulu sebelum memasuki rubanah, karena Anda tidak akan mengatur setelah pertempuran di rubanah",
+ 	 	 	 	 	"trans": "Sepertinya Anda tidak memiliki penghilang rasa sakit, beli dari Toko Trinoky di kota terlebih dahulu sebelum memasuki dungeons, karena Anda tidak dapat regenerasi setelah pertempuran di dungeons",
  	 	 	 	 	"eng": "Seems like you dont have any Pain Away with you, purchase it from Trinoky Mart in the city first before entering dungeons, since you will not regen after battles in dungeon"
  	 	 	 	},
  	 	 	 	"cancel": {
@@ -1688,7 +1688,7 @@
  	 	 	 	 	"eng": "set character name to \"${name}\"?"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Anda tidak dapat mengubah ini di masa depan",
+ 	 	 	 	 	"trans": "Anda tidak dapat mengubah ini nanti",
  	 	 	 	 	"eng": "You cannot change this in the future"
  	 	 	 	},
  	 	 	 	"confirmButton": {
@@ -1717,7 +1717,7 @@
  	 	},
  	 	"craftingPage": {
  	 	 	"onlyShowCraftable": {
- 	 	 	 	"trans": "Sembunyikan resep yang Anda bisa kerajinan",
+ 	 	 	 	"trans": "Sembunyikan resep yang bisa Anda buat",
  	 	 	 	"eng": "Hide recipes that you can\\'t craft"
  	 	 	},
  	 	 	"title": {
@@ -1762,11 +1762,11 @@
  	 	},
  	 	"dungeonLobby": {
  	 	 	"showCanJoinOnly": {
- 	 	 	 	"trans": "Hanya menunjukkan rubanah yang bisa saya ikuti",
+ 	 	 	 	"trans": "Hanya menunjukkan dungeons yang bisa saya ikuti",
  	 	 	 	"eng": "Only show dungeons I can join"
  	 	 	},
  	 	 	"noDungeon": {
- 	 	 	 	"trans": "Saat ini tidak ada Rubanah Publik",
+ 	 	 	 	"trans": "Saat ini tidak ada dungeons Publik",
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	},
  	 	 	"playerCount": {
@@ -1901,7 +1901,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "Pemindaian untuk musuh terdekat di jalan, musuh di luar rubanah lebih lemah dan lebih mudah dikalahkan. Namun mereka juga memberikan lebih sedikit exp",
+ 	 	 	 	 	"trans": "Pemindaian untuk musuh terdekat di jalan, musuh di luar dungeons lebih lemah dan lebih mudah dikalahkan. Namun mereka juga memberikan lebih sedikit exp",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -1935,7 +1935,7 @@
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
- 	 	 	 	"trans": "kumpulkan cache dari musuh dan ruang bawah tanah untuk mencetak senjata dan armor baru mu",
+ 	 	 	 	"trans": "kumpulkan cache dari musuh dan dungeons untuk mencetak senjata dan armor baru mu",
  	 	 	 	"eng": "gather the caches from enemies and dungeons to print your new weapons and armor"
  	 	 	}
  	 	},
@@ -2013,7 +2013,7 @@
  	 	},
  	 	"statsPage": {
  	 	 	"quitGang": {
- 	 	 	 	"trans": "Berhenti geng",
+ 	 	 	 	"trans": "Keluar geng",
  	 	 	 	"eng": "Quit Gang"
  	 	 	},
  	 	 	"logout": {
@@ -2059,7 +2059,7 @@
  	 	 	 	"eng": "combat"
  	 	 	},
  	 	 	"dungeon": {
- 	 	 	 	"trans": "Rubanah",
+ 	 	 	 	"trans": "dungeon",
  	 	 	 	"eng": "dungeon"
  	 	 	},
  	 	 	"social": {
@@ -2288,7 +2288,7 @@
  	"statsType": {
  	 	"maxHealth": {
  	 	 	"name": {
- 	 	 	 	"trans": "Darah Maks",
+ 	 	 	 	"trans": "Maks Darah",
  	 	 	 	"eng": "Max Health"
  	 	 	},
  	 	 	"description": {
@@ -2722,7 +2722,7 @@
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Buka 4 peti di rubanah untuk membuat mereka loot manis!",
+ 	 	 	 	"trans": "Buka 4 peti di dungeon untuk mendapatkan jarahan manis!",
  	 	 	 	"eng": "Open 4 crates in dungeon to get them sweet loots!"
  	 	 	}
  	 	},
@@ -2751,7 +2751,7 @@
  	 	 	},
  	 	 	"dungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Rubanah",
+ 	 	 	 	 	"trans": "dungeon",
  	 	 	 	 	"eng": "dungeon"
  	 	 	 	}
  	 	 	}
@@ -2768,26 +2768,26 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Dapatkan 3 kepingan Kunci berbeda dari tiap rubanah yang berlokasi di ${segmentDisplayName},\r\n                Kepingan kunci ini berguna untuk membuat kunci ke zona berikutnya.\r\n                untuk membuat kunci, pergi ke terminal di [HUB]",
+ 	 	 	 	"trans": "Dapatkan 3 kepingan Kunci berbeda dari tiap dungeons yang berlokasi di ${segmentDisplayName},\r\n                Kepingan kunci ini berguna untuk membuat kunci ke zona berikutnya.\r\n                untuk membuat kunci, pergi ke terminal di [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Kesatria Rubanah",
+ 	 	 	 	 	"trans": "Kesatria dungeon",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Teman Rubanah",
+ 	 	 	 	 	"trans": "Teman dungeon",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Penjelajah Rubanah",
+ 	 	 	 	 	"trans": "Penjelajah dungeon",
  	 	 	 	 	"eng": "dungeon crawler"
  	 	 	 	}
  	 	 	},
@@ -2800,7 +2800,7 @@
  	 	 	 	"eng": "Gain exp"
  	 	 	},
  	 	 	"joinDungeon": {
- 	 	 	 	"trans": "Gabung ke Rubanah",
+ 	 	 	 	"trans": "Gabung ke dungeon",
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
@@ -2827,7 +2827,7 @@
  	 	 	"eng": "Click here to scan for street enemies"
  	 	},
  	 	"localCombatTip": {
- 	 	 	"trans": "Anda akan menerima EXP, Bitcoin, dan Loot ketika Anda mengalahkan musuh, \n                 Cobalah sekarang!",
+ 	 	 	"trans": "Anda akan menerima EXP, Bitcoin, dan Jarahan ketika Anda mengalahkan musuh, \n                 Cobalah sekarang!",
  	 	 	"eng": "you will receive exp, Bitcoin and loots when you defeat enemies,\r\n                give it a try now!"
  	 	},
  	 	"primaryAttack": {
@@ -3445,7 +3445,7 @@
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kepingan teknologi dari peralatan yang dibongkar, dapat direkayasa balik untuk mendapatkan printing xp. \r\n        kamu dapat melakukan rekayasa balik di  Job Hub.",
+ 	 	 	 	"trans": "Kepingan teknologi dari peralatan yang dibongkar, dapat direkayasa balik untuk mendapatkan printing xp. \r\n        kamu dapat melakukan rekayasa balik di Job Hub.",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
@@ -4853,7 +4853,7 @@
  	 	 	 	 	"eng": "Open Crate"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Buka peti di ruang bawah tanah",
+ 	 	 	 	 	"trans": "Buka peti di dungeons",
  	 	 	 	 	"eng": "Open crate in dungeon"
  	 	 	 	}
  	 	 	},
@@ -5146,11 +5146,11 @@
  	 	 	}
  	 	},
  	 	"leaveDungeon": {
- 	 	 	"trans": "Tinggalkan Rubanah",
+ 	 	 	"trans": "Tinggalkan dungeons",
  	 	 	"eng": "Leave dungeon"
  	 	},
  	 	"loading": {
- 	 	 	"trans": "Memuat Rubanah ...",
+ 	 	 	"trans": "Memuat dungeons ...",
  	 	 	"eng": "Loading Dungeon..."
  	 	},
  	 	"sendInvite": {
@@ -5158,7 +5158,7 @@
  	 	 	"eng": "Send Invite To Chat"
  	 	},
  	 	"buttonTut": {
- 	 	 	"trans": "Apakah Anda pikir Anda cukup kuat? Ambil musuh yang lebih kuat di Rubanah! \r\n                         Ingatlah untuk membeli beberapa item penyembuhan! Anda tidak akan bergegas setelah pertempuran di ruang bawah tanah",
+ 	 	 	"trans": "Apakah Anda pikir Anda cukup kuat? Ambil musuh yang lebih kuat di dungeons! \r\n                         Ingatlah untuk membeli beberapa item penyembuhan! Anda tidak akan bergegas setelah pertempuran di dungeons",
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	}
  	},
@@ -5166,7 +5166,7 @@
  	 	"ui": {
  	 	 	"useItem": {
  	 	 	 	"localFightCantUseItem": {
- 	 	 	 	 	"trans": "Anda tidak dapat menggunakan item selama pertarungan jalanan, barang hanya tersedia selama ruang bawah tanah",
+ 	 	 	 	 	"trans": "Anda tidak dapat menggunakan item selama pertarungan jalanan, item hanya tersedia selama dungeons",
  	 	 	 	 	"eng": "You cannot use item during street fights, items are only available during dungeons"
  	 	 	 	}
  	 	 	},
@@ -5734,7 +5734,7 @@
  	},
  	"dungeonList": {
  	 	"newbieTip": {
- 	 	 	"trans": "Anda tidak akan sembuh setelah setiap pertarungan di Rubanah, ingatlah untuk menggunakan barang penyembuhan Anda.",
+ 	 	 	"trans": "Anda tidak akan sembuh setelah setiap pertarungan di dungeons, ingatlah untuk menggunakan barang penyembuhan Anda.",
  	 	 	"eng": "You will not heal after each fight in dungeon, remember to use your healing items."
  	 	}
  	},
@@ -5822,8 +5822,8 @@
  	 	 	"eng": "Discount ends in ${date}"
  	 	},
  	 	"permanentDescription": {
- 	 	 	"trans": "Judul ini tidak akan pernah kedaluwarsa. \\ NIT tetap dengan akun Anda selamanya.",
- 	 	 	"eng": "This title will never expire.\\nIt stays with your account forever."
+ 	 	 	"trans": "gelar ini tidak akan pernah kedaluwarsa. \\ NIT tetap dengan akun Anda selamanya.",
+ 	 	 	"eng": "This Title will never expire.\\nIt stays with your account forever."
  	 	}
  	},
  	"cosmetic": {
